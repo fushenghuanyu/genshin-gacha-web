@@ -1,0 +1,5442 @@
+[
+	{
+		"version": "6.6.1",
+		"items": [
+			{
+				"itemId": 10000131,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/a48f28f4e0df84ab99d824b331df3180.png",
+				"itemType": "Character",
+				"name": "尼可",
+				"nameEn": "尼可",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000123,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/983f7c24cf48ae754855bd907f80145d.png",
+				"itemType": "Character",
+				"name": "杜林",
+				"nameEn": "杜林",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000132,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/a78be4f2f5cdb166d08285de4e903fd4.png",
+				"itemType": "Character",
+				"name": "布伦妮",
+				"nameEn": "布伦妮",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2026-05-20 07:00:00",
+		"end": "2026-06-09 17:59:00"
+	},
+	{
+		"version": "6.5.2",
+		"items": [
+			{
+				"itemId": 10000119,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/fb8c4a38b518356606e3deaddd992672.png",
+				"itemType": "Character",
+				"name": "菈乌玛",
+				"nameEn": "菈乌玛",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000122,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/7db0b9e542ef759fdd85c9ae8884c248.png",
+				"itemType": "Character",
+				"name": "奈芙尔",
+				"nameEn": "奈芙尔",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000061,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7438c0635055f05cded0aeafac019d8e.png",
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "绮良良",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000124,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/d5af057a19b3ad3eecf1465ea19f628b.png",
+				"itemType": "Character",
+				"name": "雅珂达",
+				"nameEn": "雅珂达",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2026-04-28 18:00:00",
+		"end": "2026-05-19 14:59:59"
+	},
+	{
+		"version": "6.5.1",
+		"items": [
+			{
+				"itemId": 10000130,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/69d58c7d/a9c83c914c03a0b0a2ccc59586c1e0b2.png",
+				"itemType": "Character",
+				"name": "莉奈娅",
+				"nameEn": "莉奈娅",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000104,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5dc6c740041c579905da84cbbaaf465.png",
+				"itemType": "Character",
+				"name": "恰斯卡",
+				"nameEn": "恰斯卡",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000127,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/b7075067e9e3620801afff65a0d83e09.png",
+				"itemType": "Character",
+				"name": "叶洛亚",
+				"nameEn": "叶洛亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000121,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/192401907aaef4ad6977c16212d0678d.png",
+				"itemType": "Character",
+				"name": "爱诺",
+				"nameEn": "爱诺",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2026-04-08 07:00:00",
+		"end": "2026-04-28 17:59:00"
+	},
+	{
+		"version": "6.4.2",
+		"items": [
+			{
+				"itemId": 10000114,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/570a1b087e4ba3f1998463429d93966f.png",
+				"itemType": "Character",
+				"name": "丝柯克",
+				"nameEn": "丝柯克",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000112,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/b6849b158b35b4eba2117ecbc0566cdd.png",
+				"itemType": "Character",
+				"name": "爱可菲",
+				"nameEn": "爱可菲",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000115,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/a826af12831772b7dbaac1c8c5cdba05.png",
+				"itemType": "Character",
+				"name": "塔利雅",
+				"nameEn": "塔利雅",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a2b748e071143b7108bdfc0c79317717.png",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "夏洛蒂",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2026-03-17 18:00:00",
+		"end": "2026-04-07 14:59:59"
+	},
+	{
+		"version": "6.4.1",
+		"items": [
+			{
+				"itemId": 10000128,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/e9d6afd687bfd5b125a7765fe9e3326c.png",
+				"itemType": "Character",
+				"name": "法尔伽",
+				"nameEn": "法尔伽",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000120,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/f1eaf3671822125584daf32564de9b07.png",
+				"itemType": "Character",
+				"name": "菲林斯",
+				"nameEn": "菲林斯",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2026-02-25 07:00:00",
+		"end": "2026-03-17 17:59:00"
+	},
+	{
+		"version": "6.3.2",
+		"items": [
+			{
+				"itemId": 10000126,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/0ff45f3a8faf1ea6c8690441669d1b9f.png",
+				"itemType": "Character",
+				"name": "兹白",
+				"nameEn": "兹白",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000087,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3ab350ac512cb6c2de1614d56f3a23f0.png",
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "那维莱特",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000127,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/b7075067e9e3620801afff65a0d83e09.png",
+				"itemType": "Character",
+				"name": "叶洛亚",
+				"nameEn": "叶洛亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000121,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/192401907aaef4ad6977c16212d0678d.png",
+				"itemType": "Character",
+				"name": "爱诺",
+				"nameEn": "爱诺",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2026-02-03 18:00:00",
+		"end": "2026-02-24 14:59:59"
+	},
+	{
+		"version": "6.3.1",
+		"items": [
+			{
+				"itemId": 10000125,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/7c8dc38959691f456ce89054a912c92b.png",
+				"itemType": "Character",
+				"name": "哥伦比娅",
+				"nameEn": "哥伦比娅",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000116,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6889608b/7f776f73c09497757c87ca409abe1606.png",
+				"itemType": "Character",
+				"name": "伊涅芙",
+				"nameEn": "伊涅芙",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000097,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1270abe872165c916e93b07a3149cf0.png",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "赛索斯",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000113,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/51f59720e5332fac34a3ad1bcdc0035c.png",
+				"itemType": "Character",
+				"name": "伊法",
+				"nameEn": "伊法",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2026-01-14 07:00:00",
+		"end": "2026-02-03 17:59:00"
+	},
+	{
+		"version": "6.2.2",
+		"items": [
+			{
+				"itemId": 10000111,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/25f846c68fb04953f3bd1d1d7f4dc986.png",
+				"itemType": "Character",
+				"name": "瓦雷莎",
+				"nameEn": "瓦雷莎",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000103,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22dd4331def5055cf12f556170f4f89b.png",
+				"itemType": "Character",
+				"name": "希诺宁",
+				"nameEn": "希诺宁",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000110,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/bf742abae085d5304b9c374845e6cb4b.png",
+				"itemType": "Character",
+				"name": "伊安珊",
+				"nameEn": "伊安珊",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000090,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4fbc042d3177154fa95f1f1521a11ae3.png",
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000092,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "嘉明",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-12-23 18:00:00",
+		"end": "2026-01-13 14:59:59"
+	},
+	{
+		"version": "6.2.1",
+		"items": [
+			{
+				"itemId": 10000123,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/983f7c24cf48ae754855bd907f80145d.png",
+				"itemType": "Character",
+				"name": "杜林",
+				"nameEn": "杜林",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000124,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/d5af057a19b3ad3eecf1465ea19f628b.png",
+				"itemType": "Character",
+				"name": "雅珂达",
+				"nameEn": "雅珂达",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2025-12-03 07:00:00",
+		"end": "2025-12-23 17:59:00"
+	},
+	{
+		"version": "6.1.2",
+		"items": [
+			{
+				"itemId": 10000096,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1d4a80c98452ad6ee814b95cf81d741a.png",
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "阿蕾奇诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000108,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/469e37873c3a6876bdb863706d3bb54f.png",
+				"itemType": "Character",
+				"name": "蓝砚",
+				"nameEn": "蓝砚",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2025-11-11 18:00:00",
+		"end": "2025-12-02 14:59:59"
+	},
+	{
+		"version": "6.1.1",
+		"items": [
+			{
+				"itemId": 10000122,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/7db0b9e542ef759fdd85c9ae8884c248.png",
+				"itemType": "Character",
+				"name": "奈芙尔",
+				"nameEn": "奈芙尔",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000089,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0e94fa780d419809b70b36bb82758c.png",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/02b3700edf30f3fd88d30d30f0a6610a.png",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "柯莱",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2025-10-22 07:00:00",
+		"end": "2025-11-11 17:59:00"
+	},
+	{
+		"version": "6.0.2",
+		"items": [
+			{
+				"itemId": 10000120,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/f1eaf3671822125584daf32564de9b07.png",
+				"itemType": "Character",
+				"name": "菲林斯",
+				"nameEn": "菲林斯",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000060,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0343c39085ea9f0bc74a2b3ac3c2453a.png",
+				"itemType": "Character",
+				"name": "夜兰",
+				"nameEn": "夜兰",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000121,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/192401907aaef4ad6977c16212d0678d.png",
+				"itemType": "Character",
+				"name": "爱诺",
+				"nameEn": "爱诺",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000068,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2025-09-30 18:00:00",
+		"end": "2025-10-21 14:59:59"
+	},
+	{
+		"version": "6.0.1",
+		"items": [
+			{
+				"itemId": 10000119,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/fb8c4a38b518356606e3deaddd992672.png",
+				"itemType": "Character",
+				"name": "菈乌玛",
+				"nameEn": "菈乌玛",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000073,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5082c08c7897d11fdfbe78df840499f6.png",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "纳西妲",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000081,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e572c61c5ff3dfdfd881ea71f78dd3d9.png",
+				"itemType": "Character",
+				"name": "卡维",
+				"nameEn": "卡维",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2025-09-10 07:00:00",
+		"end": "2025-09-30 17:59:00"
+	},
+	{
+		"version": "5.8.2",
+		"items": [
+			{
+				"itemId": 10000102,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/916a39ee76180b7ab92559f56dd47b78.png",
+				"itemType": "Character",
+				"name": "玛拉妮",
+				"nameEn": "玛拉妮",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000104,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5dc6c740041c579905da84cbbaaf465.png",
+				"itemType": "Character",
+				"name": "恰斯卡",
+				"nameEn": "恰斯卡",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000113,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/51f59720e5332fac34a3ad1bcdc0035c.png",
+				"itemType": "Character",
+				"name": "伊法",
+				"nameEn": "伊法",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000105,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8beb7b2c951e0a1093646653367b5712.png",
+				"itemType": "Character",
+				"name": "欧洛伦",
+				"nameEn": "欧洛伦",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-08-19 18:00:00",
+		"end": "2025-09-09 14:59:59"
+	},
+	{
+		"version": "5.8.1",
+		"items": [
+			{
+				"itemId": 10000116,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6889608b/7f776f73c09497757c87ca409abe1606.png",
+				"itemType": "Character",
+				"name": "伊涅芙",
+				"nameEn": "伊涅芙",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000107,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/76e5c3409544ebbf73d0514999ac453e.png",
+				"itemType": "Character",
+				"name": "茜特菈莉",
+				"nameEn": "茜特菈莉",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000097,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1270abe872165c916e93b07a3149cf0.png",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "赛索斯",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2025-07-30 06:00:00",
+		"end": "2025-08-19 17:59:59"
+	},
+	{
+		"version": "5.7.2",
+		"items": [
+			{
+				"itemId": 10000106,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8e663deef6b8b0da68a0ce7441bf6911.png",
+				"itemType": "Character",
+				"name": "玛薇卡",
+				"nameEn": "玛薇卡",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000099,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bef7fa0477538d9439b0e82e98740bd4.png",
+				"itemType": "Character",
+				"name": "艾梅莉埃",
+				"nameEn": "艾梅莉埃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000110,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/bf742abae085d5304b9c374845e6cb4b.png",
+				"itemType": "Character",
+				"name": "伊安珊",
+				"nameEn": "伊安珊",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-07-08 18:00:00",
+		"end": "2025-07-29 14:59:59"
+	},
+	{
+		"version": "5.7.1",
+		"items": [
+			{
+				"itemId": 10000114,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/570a1b087e4ba3f1998463429d93966f.png",
+				"itemType": "Character",
+				"name": "丝柯克",
+				"nameEn": "丝柯克",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000063,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2052d5ea541fd38598adcd4b6597558e.png",
+				"itemType": "Character",
+				"name": "申鹤",
+				"nameEn": "申鹤",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000115,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6851f37b/a826af12831772b7dbaac1c8c5cdba05.png",
+				"itemType": "Character",
+				"name": "塔利雅",
+				"nameEn": "塔利雅",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-06-18 06:00:00",
+		"end": "2025-07-08 17:59:59"
+	},
+	{
+		"version": "5.6.2",
+		"items": [
+			{
+				"itemId": 10000101,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f6ed58ae3cfeeebd6e4956e7c5e4b725.png",
+				"itemType": "Character",
+				"name": "基尼奇",
+				"nameEn": "基尼奇",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000052,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000083,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53d1455345d1bd3ea77093b2e30c707b.png",
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "琳妮特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2025-05-27 18:00:00",
+		"end": "2025-06-17 14:59:59"
+	},
+	{
+		"version": "5.6.1",
+		"items": [
+			{
+				"itemId": 10000112,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/b6849b158b35b4eba2117ecbc0566cdd.png",
+				"itemType": "Character",
+				"name": "爱可菲",
+				"nameEn": "爱可菲",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000091,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/833f7d09c5ff0f6758d02cfe3dd9c7b9.png",
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "娜维娅",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000113,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/681a947b/51f59720e5332fac34a3ad1bcdc0035c.png",
+				"itemType": "Character",
+				"name": "伊法",
+				"nameEn": "伊法",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000105,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8beb7b2c951e0a1093646653367b5712.png",
+				"itemType": "Character",
+				"name": "欧洛伦",
+				"nameEn": "欧洛伦",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000074,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/43a3873d44405a79fbe131bc06f97c52.png",
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "莱依拉",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-05-07 06:00:00",
+		"end": "2025-05-27 17:59:59"
+	},
+	{
+		"version": "5.5.2",
+		"items": [
+			{
+				"itemId": 10000103,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22dd4331def5055cf12f556170f4f89b.png",
+				"itemType": "Character",
+				"name": "希诺宁",
+				"nameEn": "希诺宁",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-04-15 18:00:00",
+		"end": "2025-05-06 14:59:59"
+	},
+	{
+		"version": "5.5.1",
+		"items": [
+			{
+				"itemId": 10000111,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/25f846c68fb04953f3bd1d1d7f4dc986.png",
+				"itemType": "Character",
+				"name": "瓦雷莎",
+				"nameEn": "瓦雷莎",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000093,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a8e25a1a9ed55d6123dfc2ed75c27942.png",
+				"itemType": "Character",
+				"name": "闲云",
+				"nameEn": "闲云",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000110,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67e3357c/bf742abae085d5304b9c374845e6cb4b.png",
+				"itemType": "Character",
+				"name": "伊安珊",
+				"nameEn": "伊安珊",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000090,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4fbc042d3177154fa95f1f1521a11ae3.png",
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000092,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "嘉明",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-03-26 06:00:00",
+		"end": "2025-04-15 17:59:59"
+	},
+	{
+		"version": "5.4.2",
+		"items": [
+			{
+				"itemId": 10000089,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0e94fa780d419809b70b36bb82758c.png",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000086,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/69bb18c5fa326ccbad5e89946b2018b0.png",
+				"itemType": "Character",
+				"name": "莱欧斯利",
+				"nameEn": "莱欧斯利",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a2b748e071143b7108bdfc0c79317717.png",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "夏洛蒂",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000080,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bd355c8fb28cb87fc0b034af3da6cbb5.png",
+				"itemType": "Character",
+				"name": "米卡",
+				"nameEn": "米卡",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-03-04 18:00:00",
+		"end": "2025-03-25 14:59:59"
+	},
+	{
+		"version": "5.4.1",
+		"items": [
+			{
+				"itemId": 10000109,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a3172059c74fb88f2f84d71d2117411b.png",
+				"itemType": "Character",
+				"name": "梦见月瑞希",
+				"nameEn": "梦见月瑞希",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000095,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5813c79f9630d1322fbcfbf4d23da46.png",
+				"itemType": "Character",
+				"name": "希格雯",
+				"nameEn": "希格雯",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2025-02-12 06:00:00",
+		"end": "2025-03-04 17:59:59"
+	},
+	{
+		"version": "5.3.2",
+		"items": [
+			{
+				"itemId": 10000096,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1d4a80c98452ad6ee814b95cf81d741a.png",
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "阿蕾奇诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000098,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/19183064675bc5b7248fa3e13fba3155.png",
+				"itemType": "Character",
+				"name": "克洛琳德",
+				"nameEn": "克洛琳德",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000108,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/469e37873c3a6876bdb863706d3bb54f.png",
+				"itemType": "Character",
+				"name": "蓝砚",
+				"nameEn": "蓝砚",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000090,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4fbc042d3177154fa95f1f1521a11ae3.png",
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-01-21 18:00:00",
+		"end": "2025-02-11 14:59:59"
+	},
+	{
+		"version": "5.3.1",
+		"items": [
+			{
+				"itemId": 10000106,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8e663deef6b8b0da68a0ce7441bf6911.png",
+				"itemType": "Character",
+				"name": "玛薇卡",
+				"nameEn": "玛薇卡",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000107,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/76e5c3409544ebbf73d0514999ac453e.png",
+				"itemType": "Character",
+				"name": "茜特菈莉",
+				"nameEn": "茜特菈莉",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000100,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/05f4bb73ae5e5bcaceb826b26edf6bbe.png",
+				"itemType": "Character",
+				"name": "卡齐娜",
+				"nameEn": "卡齐娜",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-01-01 06:00:00",
+		"end": "2025-01-21 17:59:59"
+	},
+	{
+		"version": "5.2.2",
+		"items": [
+			{
+				"itemId": 10000087,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3ab350ac512cb6c2de1614d56f3a23f0.png",
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "那维莱特",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000059,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6321a4af2b9c11940ab0a9770cb9a405.png",
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "鹿野院平藏",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2024-12-10 18:00:00",
+		"end": "2024-12-31 14:59:59"
+	},
+	{
+		"version": "5.2.1",
+		"items": [
+			{
+				"itemId": 10000104,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5dc6c740041c579905da84cbbaaf465.png",
+				"itemType": "Character",
+				"name": "恰斯卡",
+				"nameEn": "恰斯卡",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000084,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/06665498991c9a09f2f522f653c31ea2.png",
+				"itemType": "Character",
+				"name": "林尼",
+				"nameEn": "林尼",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000105,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8beb7b2c951e0a1093646653367b5712.png",
+				"itemType": "Character",
+				"name": "欧洛伦",
+				"nameEn": "欧洛伦",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			}
+		],
+		"start": "2024-11-20 06:00:00",
+		"end": "2024-12-10 17:59:59"
+	},
+	{
+		"version": "5.1.2",
+		"items": [
+			{
+				"itemId": 10000046,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/f3547b49d4103fc1ee16dfb8b8907e98.png",
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "胡桃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000073,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5082c08c7897d11fdfbe78df840499f6.png",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "纳西妲",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000097,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1270abe872165c916e93b07a3149cf0.png",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "赛索斯",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2024-10-29 18:00:00",
+		"end": "2024-11-19 14:59:59"
+	},
+	{
+		"version": "5.1.1",
+		"items": [
+			{
+				"itemId": 10000103,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/22dd4331def5055cf12f556170f4f89b.png",
+				"itemType": "Character",
+				"name": "希诺宁",
+				"nameEn": "希诺宁",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000094,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/01a6c77dac5f27307e20c09ce9d022a3.png",
+				"itemType": "Character",
+				"name": "千织",
+				"nameEn": "千织",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000068,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/02b3700edf30f3fd88d30d30f0a6610a.png",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "柯莱",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2024-10-09 06:00:00",
+		"end": "2024-10-29 17:59:59"
+	},
+	{
+		"version": "5.0.2",
+		"items": [
+			{
+				"itemId": 10000101,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f6ed58ae3cfeeebd6e4956e7c5e4b725.png",
+				"itemType": "Character",
+				"name": "基尼奇",
+				"nameEn": "基尼奇",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000052,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000090,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4fbc042d3177154fa95f1f1521a11ae3.png",
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-09-17 18:00:00",
+		"end": "2024-10-08 14:59:59"
+	},
+	{
+		"version": "5.0.1",
+		"items": [
+			{
+				"itemId": 10000102,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/916a39ee76180b7ab92559f56dd47b78.png",
+				"itemType": "Character",
+				"name": "玛拉妮",
+				"nameEn": "玛拉妮",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000047,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2790262c16e794bf2e3407f760234a4c.png",
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "枫原万叶",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000100,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/05f4bb73ae5e5bcaceb826b26edf6bbe.png",
+				"itemType": "Character",
+				"name": "卡齐娜",
+				"nameEn": "卡齐娜",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-08-28 06:00:00",
+		"end": "2024-09-17 17:59:59"
+	},
+	{
+		"version": "4.8.2",
+		"items": [
+			{
+				"itemId": 10000099,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bef7fa0477538d9439b0e82e98740bd4.png",
+				"itemType": "Character",
+				"name": "艾梅莉埃",
+				"nameEn": "艾梅莉埃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000060,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0343c39085ea9f0bc74a2b3ac3c2453a.png",
+				"itemType": "Character",
+				"name": "夜兰",
+				"nameEn": "夜兰",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2024-08-06 18:00:00",
+		"end": "2024-08-27 14:59:59"
+	},
+	{
+		"version": "4.8.1",
+		"items": [
+			{
+				"itemId": 10000091,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/833f7d09c5ff0f6758d02cfe3dd9c7b9.png",
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "娜维娅",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000070,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0432417968817e5670dd6b7bce6531a0.png",
+				"itemType": "Character",
+				"name": "妮露",
+				"nameEn": "妮露",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000061,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7438c0635055f05cded0aeafac019d8e.png",
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "绮良良",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000081,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e572c61c5ff3dfdfd881ea71f78dd3d9.png",
+				"itemType": "Character",
+				"name": "卡维",
+				"nameEn": "卡维",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2024-07-17 06:00:00",
+		"end": "2024-08-06 17:59:59"
+	},
+	{
+		"version": "4.7.2",
+		"items": [
+			{
+				"itemId": 10000089,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0e94fa780d419809b70b36bb82758c.png",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000095,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/b5813c79f9630d1322fbcfbf4d23da46.png",
+				"itemType": "Character",
+				"name": "希格雯",
+				"nameEn": "希格雯",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000092,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "嘉明",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-06-25 18:00:00",
+		"end": "2024-07-16 14:59:59"
+	},
+	{
+		"version": "4.7.1",
+		"items": [
+			{
+				"itemId": 10000098,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/19183064675bc5b7248fa3e13fba3155.png",
+				"itemType": "Character",
+				"name": "克洛琳德",
+				"nameEn": "克洛琳德",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000078,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7df14c840589cab253edfbf92675214b.png",
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "艾尔海森",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000097,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1270abe872165c916e93b07a3149cf0.png",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "赛索斯",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2024-06-05 06:00:00",
+		"end": "2024-06-25 17:59:59"
+	},
+	{
+		"version": "4.6.2",
+		"items": [
+			{
+				"itemId": 10000075,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3bc22ef825aa95c5e1b6d49f9f4d880a.png",
+				"itemType": "Character",
+				"name": "流浪者",
+				"nameEn": "流浪者",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000082,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0afe40a894582050a6b0989c50da34b2.png",
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "白术",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000074,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/43a3873d44405a79fbe131bc06f97c52.png",
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "莱依拉",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2024-05-14 18:00:00",
+		"end": "2024-06-04 14:59:59"
+	},
+	{
+		"version": "4.6.1",
+		"items": [
+			{
+				"itemId": 10000096,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1d4a80c98452ad6ee814b95cf81d741a.png",
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "阿蕾奇诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000084,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/06665498991c9a09f2f522f653c31ea2.png",
+				"itemType": "Character",
+				"name": "林尼",
+				"nameEn": "林尼",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000085,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c767fa3b7f41541d58e780a37766885f.png",
+				"itemType": "Character",
+				"name": "菲米尼",
+				"nameEn": "菲米尼",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000083,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53d1455345d1bd3ea77093b2e30c707b.png",
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "琳妮特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-04-24 06:00:00",
+		"end": "2024-05-14 17:59:59"
+	},
+	{
+		"version": "4.5.2",
+		"items": [
+			{
+				"itemId": 10000087,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3ab350ac512cb6c2de1614d56f3a23f0.png",
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "那维莱特",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000047,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2790262c16e794bf2e3407f760234a4c.png",
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "枫原万叶",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-04-02 18:00:00",
+		"end": "2024-04-23 14:59:59"
+	},
+	{
+		"version": "4.5.1",
+		"items": [
+			{
+				"itemId": 10000094,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/01a6c77dac5f27307e20c09ce9d022a3.png",
+				"itemType": "Character",
+				"name": "千织",
+				"nameEn": "千织",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000057,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fc2e84b8835d2943a18836052f66aa33.png",
+				"itemType": "Character",
+				"name": "荒泷一斗",
+				"nameEn": "荒泷一斗",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000068,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2024-03-13 06:00:00",
+		"end": "2024-04-02 17:59:59"
+	},
+	{
+		"version": "4.4.2",
+		"items": [
+			{
+				"itemId": 10000026,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/369f2b38507ae0814934e8e3739a2d35.png",
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "魈",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000058,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b0712b5f4b11d55877cdf339e26433b.png",
+				"itemType": "Character",
+				"name": "八重神子",
+				"nameEn": "八重神子",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2024-02-20 18:00:00",
+		"end": "2024-03-12 14:59:59"
+	},
+	{
+		"version": "4.4.1",
+		"items": [
+			{
+				"itemId": 10000093,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a8e25a1a9ed55d6123dfc2ed75c27942.png",
+				"itemType": "Character",
+				"name": "闲云",
+				"nameEn": "闲云",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000073,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5082c08c7897d11fdfbe78df840499f6.png",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "纳西妲",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000092,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c8155ff8c87c00413934eaadd27c9444.png",
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "嘉明",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2024-01-31 06:00:00",
+		"end": "2024-02-20 17:59:59"
+	},
+	{
+		"version": "4.3.2",
+		"items": [
+			{
+				"itemId": 10000052,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000049,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f9e1196030a547ee8afaf9f0c05c7be.png",
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "宵宫",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000090,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4fbc042d3177154fa95f1f1521a11ae3.png",
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "夏沃蕾",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-01-09 18:00:00",
+		"end": "2024-01-30 14:59:59"
+	},
+	{
+		"version": "4.3.1",
+		"items": [
+			{
+				"itemId": 10000091,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/833f7d09c5ff0f6758d02cfe3dd9c7b9.png",
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "娜维娅",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000002,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "神里绫华",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			}
+		],
+		"start": "2023-12-20 06:00:00",
+		"end": "2024-01-09 17:59:59"
+	},
+	{
+		"version": "4.2.2",
+		"items": [
+			{
+				"itemId": 10000071,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53cf8618263f2cb65b65e7020b3dfcca.png",
+				"itemType": "Character",
+				"name": "赛诺",
+				"nameEn": "赛诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000066,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9c2657bbf47c1bf85e05d671337d0df.png",
+				"itemType": "Character",
+				"name": "神里绫人",
+				"nameEn": "神里绫人",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000061,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7438c0635055f05cded0aeafac019d8e.png",
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "绮良良",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-11-28 18:00:00",
+		"end": "2023-12-19 14:59:59"
+	},
+	{
+		"version": "4.2.1",
+		"items": [
+			{
+				"itemId": 10000089,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0e94fa780d419809b70b36bb82758c.png",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000082,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0afe40a894582050a6b0989c50da34b2.png",
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "白术",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a2b748e071143b7108bdfc0c79317717.png",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "夏洛蒂",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/02b3700edf30f3fd88d30d30f0a6610a.png",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "柯莱",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2023-11-08 06:00:00",
+		"end": "2023-11-28 17:59:59"
+	},
+	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 10000086,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/69bb18c5fa326ccbad5e89946b2018b0.png",
+				"itemType": "Character",
+				"name": "莱欧斯利",
+				"nameEn": "莱欧斯利",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000068,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2023-10-17 18:00:00",
+		"end": "2023-11-07 14:59:59"
+	},
+	{
+		"version": "4.1.1",
+		"items": [
+			{
+				"itemId": 10000087,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3ab350ac512cb6c2de1614d56f3a23f0.png",
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "那维莱特",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000046,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/f3547b49d4103fc1ee16dfb8b8907e98.png",
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "胡桃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2023-09-27 06:00:00",
+		"end": "2023-10-17 17:59:59"
+	},
+	{
+		"version": "4.0.2",
+		"items": [
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000033,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/923cc5f9ae578a4133cbc71fa94ed321.png",
+				"itemType": "Character",
+				"name": "达达利亚",
+				"nameEn": "达达利亚",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000085,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c767fa3b7f41541d58e780a37766885f.png",
+				"itemType": "Character",
+				"name": "菲米尼",
+				"nameEn": "菲米尼",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2023-09-05 18:00:00",
+		"end": "2023-09-26 14:59:59"
+	},
+	{
+		"version": "4.0.1",
+		"items": [
+			{
+				"itemId": 10000084,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/06665498991c9a09f2f522f653c31ea2.png",
+				"itemType": "Character",
+				"name": "林尼",
+				"nameEn": "林尼",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000060,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0343c39085ea9f0bc74a2b3ac3c2453a.png",
+				"itemType": "Character",
+				"name": "夜兰",
+				"nameEn": "夜兰",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000083,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53d1455345d1bd3ea77093b2e30c707b.png",
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "琳妮特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			}
+		],
+		"start": "2023-08-16 06:00:00",
+		"end": "2023-09-05 17:59:59"
+	},
+	{
+		"version": "3.8.2",
+		"items": [
+			{
+				"itemId": 10000054,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/21c40a98913d4d0f9e4d6660927002db.png",
+				"itemType": "Character",
+				"name": "珊瑚宫心海",
+				"nameEn": "珊瑚宫心海",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000075,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3bc22ef825aa95c5e1b6d49f9f4d880a.png",
+				"itemType": "Character",
+				"name": "流浪者",
+				"nameEn": "流浪者",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-07-25 18:00:00",
+		"end": "2023-08-15 14:59:59"
+	},
+	{
+		"version": "3.8.1",
+		"items": [
+			{
+				"itemId": 10000051,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c3798482c8ba03afe19453ab053c1ff3.png",
+				"itemType": "Character",
+				"name": "优菈",
+				"nameEn": "优菈",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000029,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a88646b581ab24a871cb1a62e5b3bdf9.png",
+				"itemType": "Character",
+				"name": "可莉",
+				"nameEn": "可莉",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000080,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bd355c8fb28cb87fc0b034af3da6cbb5.png",
+				"itemType": "Character",
+				"name": "米卡",
+				"nameEn": "米卡",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-07-05 06:00:00",
+		"end": "2023-07-25 17:59:59"
+	},
+	{
+		"version": "3.7.2",
+		"items": [
+			{
+				"itemId": 10000078,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7df14c840589cab253edfbf92675214b.png",
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "艾尔海森",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000047,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2790262c16e794bf2e3407f760234a4c.png",
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "枫原万叶",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000059,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6321a4af2b9c11940ab0a9770cb9a405.png",
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "鹿野院平藏",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2023-06-13 18:00:00",
+		"end": "2023-07-04 14:59:59"
+	},
+	{
+		"version": "3.7.1",
+		"items": [
+			{
+				"itemId": 10000049,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f9e1196030a547ee8afaf9f0c05c7be.png",
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "宵宫",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000058,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b0712b5f4b11d55877cdf339e26433b.png",
+				"itemType": "Character",
+				"name": "八重神子",
+				"nameEn": "八重神子",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000061,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7438c0635055f05cded0aeafac019d8e.png",
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "绮良良",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2023-05-24 06:00:00",
+		"end": "2023-06-13 17:59:59"
+	},
+	{
+		"version": "3.6.2",
+		"items": [
+			{
+				"itemId": 10000082,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0afe40a894582050a6b0989c50da34b2.png",
+				"itemType": "Character",
+				"name": "白术",
+				"nameEn": "白术",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000037,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bf54f43c33b049ee529a37ee49d8a591.png",
+				"itemType": "Character",
+				"name": "甘雨",
+				"nameEn": "甘雨",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000081,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e572c61c5ff3dfdfd881ea71f78dd3d9.png",
+				"itemType": "Character",
+				"name": "卡维",
+				"nameEn": "卡维",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2023-05-02 18:00:00",
+		"end": "2023-05-23 14:59:59"
+	},
+	{
+		"version": "3.6.1",
+		"items": [
+			{
+				"itemId": 10000073,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5082c08c7897d11fdfbe78df840499f6.png",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "纳西妲",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000070,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0432417968817e5670dd6b7bce6531a0.png",
+				"itemType": "Character",
+				"name": "妮露",
+				"nameEn": "妮露",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000068,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000074,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/43a3873d44405a79fbe131bc06f97c52.png",
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "莱依拉",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2023-04-12 06:00:00",
+		"end": "2023-05-02 17:59:59"
+	},
+	{
+		"version": "3.5.2",
+		"items": [
+			{
+				"itemId": 10000063,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2052d5ea541fd38598adcd4b6597558e.png",
+				"itemType": "Character",
+				"name": "申鹤",
+				"nameEn": "申鹤",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000002,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "神里绫华",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000080,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bd355c8fb28cb87fc0b034af3da6cbb5.png",
+				"itemType": "Character",
+				"name": "米卡",
+				"nameEn": "米卡",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2023-03-21 18:00:00",
+		"end": "2023-04-11 14:59:59"
+	},
+	{
+		"version": "3.5.1",
+		"items": [
+			{
+				"itemId": 10000079,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d3c29cb15df7113477e2b112eef03606.png",
+				"itemType": "Character",
+				"name": "迪希雅",
+				"nameEn": "迪希雅",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000071,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53cf8618263f2cb65b65e7020b3dfcca.png",
+				"itemType": "Character",
+				"name": "赛诺",
+				"nameEn": "赛诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/02b3700edf30f3fd88d30d30f0a6610a.png",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "柯莱",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2023-03-01 06:00:00",
+		"end": "2023-03-21 17:59:59"
+	},
+	{
+		"version": "3.4.2",
+		"items": [
+			{
+				"itemId": 10000046,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/f3547b49d4103fc1ee16dfb8b8907e98.png",
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "胡桃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000060,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0343c39085ea9f0bc74a2b3ac3c2453a.png",
+				"itemType": "Character",
+				"name": "夜兰",
+				"nameEn": "夜兰",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2023-02-07 18:00:00",
+		"end": "2023-02-28 14:59:59"
+	},
+	{
+		"version": "3.4.1",
+		"items": [
+			{
+				"itemId": 10000078,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7df14c840589cab253edfbf92675214b.png",
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "艾尔海森",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000026,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/369f2b38507ae0814934e8e3739a2d35.png",
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "魈",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0eff58b87d8cd7c62314d7577fe0f9.png",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "瑶瑶",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			}
+		],
+		"start": "2023-01-18 06:00:00",
+		"end": "2023-02-07 17:59:59"
+	},
+	{
+		"version": "3.3.2",
+		"items": [
+			{
+				"itemId": 10000052,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000066,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9c2657bbf47c1bf85e05d671337d0df.png",
+				"itemType": "Character",
+				"name": "神里绫人",
+				"nameEn": "神里绫人",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2022-12-27 18:00:00",
+		"end": "2023-01-17 14:59:59"
+	},
+	{
+		"version": "3.3.1",
+		"items": [
+			{
+				"itemId": 10000075,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3bc22ef825aa95c5e1b6d49f9f4d880a.png",
+				"itemType": "Character",
+				"name": "流浪者",
+				"nameEn": "流浪者",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000057,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fc2e84b8835d2943a18836052f66aa33.png",
+				"itemType": "Character",
+				"name": "荒泷一斗",
+				"nameEn": "荒泷一斗",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-12-07 06:00:00",
+		"end": "2022-12-27 17:59:59"
+	},
+	{
+		"version": "3.2.2",
+		"items": [
+			{
+				"itemId": 10000058,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b0712b5f4b11d55877cdf339e26433b.png",
+				"itemType": "Character",
+				"name": "八重神子",
+				"nameEn": "八重神子",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000033,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/923cc5f9ae578a4133cbc71fa94ed321.png",
+				"itemType": "Character",
+				"name": "达达利亚",
+				"nameEn": "达达利亚",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000074,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/43a3873d44405a79fbe131bc06f97c52.png",
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "莱依拉",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000059,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6321a4af2b9c11940ab0a9770cb9a405.png",
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "鹿野院平藏",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-11-18 18:00:00",
+		"end": "2022-12-06 14:59:59"
+	},
+	{
+		"version": "3.2.1",
+		"items": [
+			{
+				"itemId": 10000073,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/5082c08c7897d11fdfbe78df840499f6.png",
+				"itemType": "Character",
+				"name": "纳西妲",
+				"nameEn": "纳西妲",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000049,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f9e1196030a547ee8afaf9f0c05c7be.png",
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "宵宫",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2022-11-02 06:00:00",
+		"end": "2022-11-18 17:59:59"
+	},
+	{
+		"version": "3.1.2",
+		"items": [
+			{
+				"itemId": 10000070,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0432417968817e5670dd6b7bce6531a0.png",
+				"itemType": "Character",
+				"name": "妮露",
+				"nameEn": "妮露",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000038,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/40dcba1eab1862499690f60b6b7f46ab.png",
+				"itemType": "Character",
+				"name": "阿贝多",
+				"nameEn": "阿贝多",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-10-14 18:00:00",
+		"end": "2022-11-01 14:59:59"
+	},
+	{
+		"version": "3.1.1",
+		"items": [
+			{
+				"itemId": 10000071,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53cf8618263f2cb65b65e7020b3dfcca.png",
+				"itemType": "Character",
+				"name": "赛诺",
+				"nameEn": "赛诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/919fd8a3073c65924fbfe813635a35d3.png",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "坎蒂丝",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			}
+		],
+		"start": "2022-09-28 06:00:00",
+		"end": "2022-10-14 17:59:59"
+	},
+	{
+		"version": "3.0.2",
+		"items": [
+			{
+				"itemId": 10000037,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bf54f43c33b049ee529a37ee49d8a591.png",
+				"itemType": "Character",
+				"name": "甘雨",
+				"nameEn": "甘雨",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000054,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/21c40a98913d4d0f9e4d6660927002db.png",
+				"itemType": "Character",
+				"name": "珊瑚宫心海",
+				"nameEn": "珊瑚宫心海",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000068,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3d6f4ddb1df32659338c6e9e38a5673f.png",
+				"itemType": "Character",
+				"name": "多莉",
+				"nameEn": "多莉",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2022-09-09 18:00:00",
+		"end": "2022-09-27 14:59:59"
+	},
+	{
+		"version": "3.0.1",
+		"items": [
+			{
+				"itemId": 10000069,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fd9c335ae8d16bd1722dc1766533b495.png",
+				"itemType": "Character",
+				"name": "提纳里",
+				"nameEn": "提纳里",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/02b3700edf30f3fd88d30d30f0a6610a.png",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "柯莱",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2022-08-24 06:00:00",
+		"end": "2022-09-09 17:59:59"
+	},
+	{
+		"version": "2.8.2",
+		"items": [
+			{
+				"itemId": 10000049,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f9e1196030a547ee8afaf9f0c05c7be.png",
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "宵宫",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-08-02 18:00:00",
+		"end": "2022-08-23 14:59:59"
+	},
+	{
+		"version": "2.8.1",
+		"items": [
+			{
+				"itemId": 10000047,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2790262c16e794bf2e3407f760234a4c.png",
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "枫原万叶",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000029,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a88646b581ab24a871cb1a62e5b3bdf9.png",
+				"itemType": "Character",
+				"name": "可莉",
+				"nameEn": "可莉",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000059,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6321a4af2b9c11940ab0a9770cb9a405.png",
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "鹿野院平藏",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-07-13 06:00:00",
+		"end": "2022-08-02 17:59:59"
+	},
+	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 10000057,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fc2e84b8835d2943a18836052f66aa33.png",
+				"itemType": "Character",
+				"name": "荒泷一斗",
+				"nameEn": "荒泷一斗",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2b26455b314544956ea38fdbcd7290ca.png",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "久岐忍",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2022-06-21 18:00:00",
+		"end": "2022-07-12 14:59:59"
+	},
+	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 10000060,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/0343c39085ea9f0bc74a2b3ac3c2453a.png",
+				"itemType": "Character",
+				"name": "夜兰",
+				"nameEn": "夜兰",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000026,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/369f2b38507ae0814934e8e3739a2d35.png",
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "魈",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2022-05-31 06:00:00",
+		"end": "2022-06-21 17:59:59"
+	},
+	{
+		"version": "2.6.2",
+		"items": [
+			{
+				"itemId": 10000002,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "神里绫华",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2022-04-19 17:59:59",
+		"end": "2022-05-31 05:59:59"
+	},
+	{
+		"version": "2.6.1",
+		"items": [
+			{
+				"itemId": 10000066,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9c2657bbf47c1bf85e05d671337d0df.png",
+				"itemType": "Character",
+				"name": "神里绫人",
+				"nameEn": "神里绫人",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2022-03-30 06:00:00",
+		"end": "2022-04-19 17:59:59"
+	},
+	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 10000052,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000054,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/21c40a98913d4d0f9e4d6660927002db.png",
+				"itemType": "Character",
+				"name": "珊瑚宫心海",
+				"nameEn": "珊瑚宫心海",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-03-08 18:00:00",
+		"end": "2022-03-29 14:59:59"
+	},
+	{
+		"version": "2.5.1",
+		"items": [
+			{
+				"itemId": 10000058,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b0712b5f4b11d55877cdf339e26433b.png",
+				"itemType": "Character",
+				"name": "八重神子",
+				"nameEn": "八重神子",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-02-16 06:00:00",
+		"end": "2022-03-08 17:59:59"
+	},
+	{
+		"version": "2.4.2",
+		"items": [
+			{
+				"itemId": 10000037,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bf54f43c33b049ee529a37ee49d8a591.png",
+				"itemType": "Character",
+				"name": "甘雨",
+				"nameEn": "甘雨",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2022-01-25 18:00:00",
+		"end": "2022-02-15 14:59:59"
+	},
+	{
+		"version": "2.4.1",
+		"items": [
+			{
+				"itemId": 10000063,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2052d5ea541fd38598adcd4b6597558e.png",
+				"itemType": "Character",
+				"name": "申鹤",
+				"nameEn": "申鹤",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000026,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/369f2b38507ae0814934e8e3739a2d35.png",
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "魈",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000064,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/27d26498870d4c58335b079888a3bac6.png",
+				"itemType": "Character",
+				"name": "云堇",
+				"nameEn": "云堇",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2022-01-05 06:00:00",
+		"end": "2022-01-25 17:59:59"
+	},
+	{
+		"version": "2.3.2",
+		"items": [
+			{
+				"itemId": 10000057,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fc2e84b8835d2943a18836052f66aa33.png",
+				"itemType": "Character",
+				"name": "荒泷一斗",
+				"nameEn": "荒泷一斗",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000055,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/f912df9d2cee41ea24d40f7ecd7881a5.png",
+				"itemType": "Character",
+				"name": "五郎",
+				"nameEn": "五郎",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2021-12-14 18:00:00",
+		"end": "2022-01-04 14:59:59"
+	},
+	{
+		"version": "2.3.1",
+		"items": [
+			{
+				"itemId": 10000038,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/40dcba1eab1862499690f60b6b7f46ab.png",
+				"itemType": "Character",
+				"name": "阿贝多",
+				"nameEn": "阿贝多",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000051,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c3798482c8ba03afe19453ab053c1ff3.png",
+				"itemType": "Character",
+				"name": "优菈",
+				"nameEn": "优菈",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2021-11-24 06:00:00",
+		"end": "2021-12-14 17:59:59"
+	},
+	{
+		"version": "2.2.2",
+		"items": [
+			{
+				"itemId": 10000046,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/f3547b49d4103fc1ee16dfb8b8907e98.png",
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "胡桃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/86480736c13f3ff5ed41c1e56c4ce014.png",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "托马",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2021-11-02 18:00:00",
+		"end": "2021-11-23 14:59:59"
+	},
+	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 10000033,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/923cc5f9ae578a4133cbc71fa94ed321.png",
+				"itemType": "Character",
+				"name": "达达利亚",
+				"nameEn": "达达利亚",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2021-10-13 06:00:00",
+		"end": "2021-11-02 17:59:59"
+	},
+	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 10000054,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/21c40a98913d4d0f9e4d6660927002db.png",
+				"itemType": "Character",
+				"name": "珊瑚宫心海",
+				"nameEn": "珊瑚宫心海",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			}
+		],
+		"start": "2021-09-21 18:00:00",
+		"end": "2021-10-12 14:59:59"
+	},
+	{
+		"version": "2.1.1",
+		"items": [
+			{
+				"itemId": 10000052,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dc186b2a995c8eca19ee63569cdea866.png",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "雷电将军",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/12e224a5a547e9dfe9bda195e50c3285.png",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "九条裟罗",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2021-09-01 06:00:00",
+		"end": "2021-09-21 17:59:59"
+	},
+	{
+		"version": "2.0.2",
+		"items": [
+			{
+				"itemId": 10000049,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2f9e1196030a547ee8afaf9f0c05c7be.png",
+				"itemType": "Character",
+				"name": "宵宫",
+				"nameEn": "宵宫",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000053,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/861a24073b02fb1383f566dde86446ea.png",
+				"itemType": "Character",
+				"name": "早柚",
+				"nameEn": "早柚",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2021-08-10 18:00:00",
+		"end": "2021-08-31 14:59:59"
+	},
+	{
+		"version": "2.0.1",
+		"items": [
+			{
+				"itemId": 10000002,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/503a481f314075541a0f7a1086995129.png",
+				"itemType": "Character",
+				"name": "神里绫华",
+				"nameEn": "神里绫华",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2021-07-21 06:00:00",
+		"end": "2021-08-10 17:59:59"
+	},
+	{
+		"version": "1.6.2",
+		"items": [
+			{
+				"itemId": 10000047,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/2790262c16e794bf2e3407f760234a4c.png",
+				"itemType": "Character",
+				"name": "枫原万叶",
+				"nameEn": "枫原万叶",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2021-06-29 18:00:00",
+		"end": "2021-07-20 14:59:59"
+	},
+	{
+		"version": "1.6.1",
+		"items": [
+			{
+				"itemId": 10000029,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a88646b581ab24a871cb1a62e5b3bdf9.png",
+				"itemType": "Character",
+				"name": "可莉",
+				"nameEn": "可莉",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2021-06-09 06:00:00",
+		"end": "2021-06-29 17:59:59"
+	},
+	{
+		"version": "1.5.2",
+		"items": [
+			{
+				"itemId": 10000051,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c3798482c8ba03afe19453ab053c1ff3.png",
+				"itemType": "Character",
+				"name": "优菈",
+				"nameEn": "优菈",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2021-05-18 18:00:00",
+		"end": "2021-06-08 14:59:59"
+	},
+	{
+		"version": "1.5.1",
+		"items": [
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/40bda349824edf006907e5d06463c68c.png",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "烟绯",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2021-04-28 06:00:00",
+		"end": "2021-05-18 17:59:59"
+	},
+	{
+		"version": "1.4.2",
+		"items": [
+			{
+				"itemId": 10000033,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/923cc5f9ae578a4133cbc71fa94ed321.png",
+				"itemType": "Character",
+				"name": "达达利亚",
+				"nameEn": "达达利亚",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			}
+		],
+		"start": "2021-04-06 18:00:00",
+		"end": "2021-04-27 14:59:59"
+	},
+	{
+		"version": "1.4.1",
+		"items": [
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2021-03-17 06:00:00",
+		"end": "2021-04-06 15:59:59"
+	},
+	{
+		"version": "1.3.3",
+		"items": [
+			{
+				"itemId": 10000046,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/f3547b49d4103fc1ee16dfb8b8907e98.png",
+				"itemType": "Character",
+				"name": "胡桃",
+				"nameEn": "胡桃",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2021-03-02 18:00:00",
+		"end": "2021-03-16 14:59:59"
+	},
+	{
+		"version": "1.3.2",
+		"items": [
+			{
+				"itemId": 10000042,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/939e44f5459ca335002e749964af866f.png",
+				"itemType": "Character",
+				"name": "刻晴",
+				"nameEn": "刻晴",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			}
+		],
+		"start": "2021-02-17 18:00:00",
+		"end": "2021-03-02 15:59:59"
+	},
+	{
+		"version": "1.3.1",
+		"items": [
+			{
+				"itemId": 10000026,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/369f2b38507ae0814934e8e3739a2d35.png",
+				"itemType": "Character",
+				"name": "魈",
+				"nameEn": "魈",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2021-02-03 06:00:00",
+		"end": "2021-02-17 15:59:59"
+	},
+	{
+		"version": "1.2.2",
+		"items": [
+			{
+				"itemId": 10000037,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bf54f43c33b049ee529a37ee49d8a591.png",
+				"itemType": "Character",
+				"name": "甘雨",
+				"nameEn": "甘雨",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2021-01-12 18:00:00",
+		"end": "2021-02-02 14:59:59"
+	},
+	{
+		"version": "1.2.1",
+		"items": [
+			{
+				"itemId": 10000038,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/40dcba1eab1862499690f60b6b7f46ab.png",
+				"itemType": "Character",
+				"name": "阿贝多",
+				"nameEn": "阿贝多",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/301a134c0d31f0da4160279a98ab884d.png",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "班尼特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2020-12-23 06:00:00",
+		"end": "2021-01-12 15:59:59"
+	},
+	{
+		"version": "1.1.2",
+		"items": [
+			{
+				"itemId": 10000030,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/e26ab183e852f0f63c0498dc623e5d9a.png",
+				"itemType": "Character",
+				"name": "钟离",
+				"nameEn": "钟离",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/4d7457d9f38cef73aaec47fa472f06ba.png",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "辛焱",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/bb517975080e88fe4c6791f0dce6f015.png",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "雷泽",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2020-12-01 18:00:00",
+		"end": "2020-12-22 14:59:59"
+	},
+	{
+		"version": "1.1.1",
+		"items": [
+			{
+				"itemId": 10000033,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/923cc5f9ae578a4133cbc71fa94ed321.png",
+				"itemType": "Character",
+				"name": "达达利亚",
+				"nameEn": "达达利亚",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000024,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a7391d03a468f38fb7b2480ba2c58d0e.png",
+				"itemType": "Character",
+				"name": "北斗",
+				"nameEn": "北斗",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/0cd572cdde3817bcd8ecc44e8caaed7f.png",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "凝光",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2020-11-11 06:00:00",
+		"end": "2020-12-01 15:59:59"
+	},
+	{
+		"version": "1.0.2",
+		"items": [
+			{
+				"itemId": 10000029,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a88646b581ab24a871cb1a62e5b3bdf9.png",
+				"itemType": "Character",
+				"name": "可莉",
+				"nameEn": "可莉",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d1a8230a8d5d380442586e31f61e3b80.png",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "行秋",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000034,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/c9dd730a9135b81b46affed42d95e654.png",
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "诺艾尔",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2020-10-20 18:00:00",
+		"end": "2020-11-10 14:59:59"
+	},
+	{
+		"version": "1.0.1",
+		"items": [
+			{
+				"itemId": 10000022,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cb815e6c39dd19286af5e3f8b5920e2e.png",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "温迪",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000014,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d85a24b53bb14da1693db6ee5b4a3feb.png",
+				"itemType": "Character",
+				"name": "芭芭拉",
+				"nameEn": "芭芭拉",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/886dcb103501f85465be7e333e059edc.png",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "菲谢尔",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/92c8c2c410176aac5a1186410f0efaca.png",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "香菱",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			}
+		],
+		"start": "2020-09-28 06:00:00",
+		"end": "2020-10-18 17:59:59"
+	}
+]

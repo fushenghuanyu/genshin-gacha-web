@@ -1,0 +1,9 @@
+{
+  "name": "genshin-gacha-web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "原神抽卡分析 Web + Rust 后端",
+  "scripts": {
+    "dev": "npm run build --prefix frontend && cd backend-rust && cargo run"
+  }
+}
