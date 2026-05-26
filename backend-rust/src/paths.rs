@@ -22,6 +22,11 @@ fn looks_like_project_root(p: &Path) -> bool {
         || p.join("dist").join("index.html").is_file()
 }
 
+/// `cargo run` 等从 `backend-rust/target/` 启动时为 true；分发包 exe 为 false。
+pub fn is_dev_launcher_exe(exe: &Path) -> bool {
+    is_exe_from_this_crate_target(exe)
+}
+
 fn is_exe_from_this_crate_target(exe: &Path) -> bool {
     let Ok(manifest_dir) = PathBuf::from(env!("CARGO_MANIFEST_DIR")).canonicalize() else {
         return false;

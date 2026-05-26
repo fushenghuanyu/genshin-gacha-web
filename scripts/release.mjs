@@ -17,11 +17,13 @@ import {
   mkdtempSync,
   mkdirSync,
   readFileSync,
+  renameSync,
   rmSync,
+  statSync,
   writeFileSync,
 } from "node:fs";
 import { tmpdir } from "node:os";
-import { dirname, join, resolve } from "node:path";
+import { basename, dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const SCRIPT_DIR = dirname(fileURLToPath(import.meta.url));
@@ -48,7 +50,7 @@ function parseArgs(argv) {
 
 function readVersion() {
   const candidates = [
-    join(PROJECT_ROOT, "resources", "VERSION"),
+    join(PROJECT_ROOT, "..", "VERSION"),
     join(FRONTEND_DIR, "package.json"),
   ];
   for (const path of candidates) {
@@ -62,7 +64,7 @@ function readVersion() {
       if (version) return version;
     }
   }
-  console.error("[error] 无法读取版本号（resources/VERSION 或 frontend/package.json）");
+  console.error("[error] 无法读取版本号（仓库根 VERSION 或 frontend/package.json）");
   process.exit(1);
 }
 
@@ -119,9 +121,72 @@ function verifyArtifacts() {
   return exePath;
 }
 
+function isFileLockedError(err) {
+  return err && (err.code === "EPERM" || err.code === "EBUSY" || err.code === "EACCES");
+}
+
+/** Windows 上正在运行的 exe 无法直接删除，可先重命名让位。 */
+function removeWindowsExe(path) {
+  const stalePath = `${path}.old`;
+  if (existsSync(stalePath)) {
+    try {
+      rmSync(stalePath, { force: true });
+    } catch {
+      // 旧的 .old 仍被占用时忽略，继续尝试覆盖 rename 目标
+    }
+  }
+  renameSync(path, stalePath);
+  console.log(`  提示: 旧启动器可能仍在运行，已重命名为 ${basename(stalePath)}`);
+  try {
+    rmSync(stalePath, { force: true });
+  } catch {
+    console.log(`  提示: 可稍后手动删除 ${basename(stalePath)}`);
+  }
+}
+
 function removePath(path) {
   if (!existsSync(path)) return;
-  rmSync(path, { recursive: true, force: true });
+  try {
+    rmSync(path, { recursive: true, force: true });
+    return;
+  } catch (err) {
+    const isWinExe =
+      IS_WIN && path.toLowerCase().endsWith(".exe") && statSync(path).isFile();
+    if (isWinExe && isFileLockedError(err)) {
+      removeWindowsExe(path);
+      return;
+    }
+    if (isFileLockedError(err)) {
+      console.error(
+        `[error] 无法删除 ${path}（文件被占用）。\n` +
+          `  若正在运行 ${basename(path)}，请先关闭后再执行 release。`,
+      );
+      process.exit(1);
+    }
+    throw err;
+  }
+}
+
+function copyLauncherExe(src, dest) {
+  try {
+    copyFileSync(src, dest);
+    return;
+  } catch (err) {
+    if (!IS_WIN || !isFileLockedError(err)) throw err;
+  }
+
+  if (existsSync(dest)) {
+    removeWindowsExe(dest);
+  }
+  try {
+    copyFileSync(src, dest);
+  } catch (err) {
+    console.error(
+      `[error] 无法写入 ${dest}。\n` +
+        `  请先关闭正在运行的 ${LAUNCHER_FILENAME}（任务管理器结束进程）后重试。`,
+    );
+    process.exit(1);
+  }
 }
 
 function clearDistributionArtifacts(dest) {
@@ -144,7 +209,7 @@ function stageDistribution(dest) {
   }
   clearDistributionArtifacts(dest);
 
-  copyFileSync(exePath, join(dest, LAUNCHER_FILENAME));
+  copyLauncherExe(exePath, join(dest, LAUNCHER_FILENAME));
   console.log(`  已写入: ${LAUNCHER_FILENAME}`);
 
   cpSync(join(PROJECT_ROOT, "dist"), join(dest, "dist"), { recursive: true });
