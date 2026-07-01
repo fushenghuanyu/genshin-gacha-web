@@ -1023,6 +1023,15 @@
     "rank": 5,
     "weapon": 11
   },
+  "洛恩": {
+    "cn": "洛恩",
+    "element": 7,
+    "EN": "洛恩",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/6caa0ee8cb19170080a40e1d57e0c8f0.png",
+    "id": "10000129",
+    "rank": 5,
+    "weapon": 13
+  },
   "莉奈娅": {
     "cn": "莉奈娅",
     "element": 3,
@@ -1049,5 +1058,14 @@
     "id": "10000132",
     "rank": 4,
     "weapon": 10
+  },
+  "桑多涅": {
+    "cn": "桑多涅",
+    "element": 7,
+    "EN": "桑多涅",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a44588e/2afb4ff0e436dcac926cb72ea6526e37.png",
+    "id": "10000133",
+    "rank": 5,
+    "weapon": 11
   }
 }

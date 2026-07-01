@@ -751,6 +751,14 @@
     "rank": 5,
     "type": 11
   },
+  "超越之匙": {
+    "cn": "超越之匙",
+    "EN": "超越之匙",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a44588e/0ce22fa824865975f716bc620a24a0d8.png",
+    "id": "12516",
+    "rank": 5,
+    "type": 11
+  },
   "新手长枪": {
     "cn": "新手长枪",
     "EN": "新手长枪",
@@ -1068,6 +1076,14 @@
     "EN": "血染荒城",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/51a4244e38d1011926a21f25942e78c6.png",
     "id": "13516",
+    "rank": 5,
+    "type": 13
+  },
+  "灾悔": {
+    "cn": "灾悔",
+    "EN": "灾悔",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/fce1c32ef5e9cd3bd775dfdf5c0de06c.png",
+    "id": "13517",
     "rank": 5,
     "type": 13
   },

@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.6.2",
+		"items": [
+			{
+				"itemId": 12516,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a44588e/0ce22fa824865975f716bc620a24a0d8.png",
+				"itemType": "Weapon",
+				"name": "超越之匙",
+				"nameEn": "超越之匙",
+				"weaponType": "Claymore",
+				"rankType": 5
+			},
+			{
+				"itemId": 14517,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/dbf7751578357bde53f9b563aee72250.png",
+				"itemType": "Weapon",
+				"name": "祭星者之望",
+				"nameEn": "祭星者之望",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png",
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "西风剑",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12405,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "雨裁",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "匣里灭辰",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14403,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "祭礼残章",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15403,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/4a03625fdbc739dca379573871a4c2ca.png",
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "祭礼弓",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2026-07-01 07:00:00",
+		"end": "2026-07-21 17:59:00"
+	},
+	{
 		"version": "6.6.1",
 		"items": [
 			{
