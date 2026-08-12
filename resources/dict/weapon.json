@@ -287,6 +287,22 @@
     "rank": 4,
     "type": 1
   },
+  "熔猎异端之刃": {
+    "cn": "熔猎异端之刃",
+    "EN": "熔猎异端之刃",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/87d27550c758abfcfe4295bf1feaa7f3.png",
+    "id": "11435",
+    "rank": 4,
+    "type": 1
+  },
+  "引火之源": {
+    "cn": "引火之源",
+    "EN": "引火之源",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/b994ba18cd4931b61958de51b5395d67.png",
+    "id": "11436",
+    "rank": 4,
+    "type": 1
+  },
   "风鹰剑": {
     "cn": "风鹰剑",
     "EN": "风鹰剑",
@@ -412,6 +428,22 @@
     "EN": "朏魄含光",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6966dc8c/fa2ac4d5a0238fb674c44670652fc284.png",
     "id": "11519",
+    "rank": 5,
+    "type": 1
+  },
+  "白湖冬羽": {
+    "cn": "白湖冬羽",
+    "EN": "白湖冬羽",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/8ddba75e7fec894e50aa646f1f0fe069.png",
+    "id": "11520",
+    "rank": 5,
+    "type": 1
+  },
+  "星锋剑": {
+    "cn": "星锋剑",
+    "EN": "星锋剑",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/8ec89cd8827583d02662704f5738efc8.png",
+    "id": "11521",
     "rank": 5,
     "type": 1
   },
@@ -668,6 +700,22 @@
     "EN": "万能钥匙",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68c0b17a/bf204697b55c81571860b964707430e7.png",
     "id": "12433",
+    "rank": 4,
+    "type": 11
+  },
+  "金律铸影": {
+    "cn": "金律铸影",
+    "EN": "金律铸影",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/f3831aed5e415c960fe1b6ad8f6024e5.png",
+    "id": "12435",
+    "rank": 4,
+    "type": 11
+  },
+  "救赎之斩": {
+    "cn": "救赎之斩",
+    "EN": "救赎之斩",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/7f31b15690c0c7d5f3fc385b7ad0bf8d.png",
+    "id": "12436",
     "rank": 4,
     "type": 11
   },
@@ -980,6 +1028,22 @@
     "EN": "圣祭者的辉杖",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/68f81e8b/c8d9e50b48a7a69f8f90b6d2e566d5dc.png",
     "id": "13434",
+    "rank": 4,
+    "type": 13
+  },
+  "寒息": {
+    "cn": "寒息",
+    "EN": "寒息",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/42f9925ccf0ed36513ab375d0ccd606f.png",
+    "id": "13435",
+    "rank": 4,
+    "type": 13
+  },
+  "戍望谣歌": {
+    "cn": "戍望谣歌",
+    "EN": "戍望谣歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/1c4ebc0821298a77ebd8cf5ef487b871.png",
+    "id": "13436",
     "rank": 4,
     "type": 13
   },
@@ -1340,6 +1404,22 @@
     "EN": "霜辰",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/182fc5756eed43ba0f54878cf0463207.png",
     "id": "14434",
+    "rank": 4,
+    "type": 10
+  },
+  "群王局戏": {
+    "cn": "群王局戏",
+    "EN": "群王局戏",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/741f589153ef2d22307233be14b00e12.png",
+    "id": "14435",
+    "rank": 4,
+    "type": 10
+  },
+  "寸心余响": {
+    "cn": "寸心余响",
+    "EN": "寸心余响",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/93c5de39db16c894abaf1df56b710dd5.png",
+    "id": "14436",
     "rank": 4,
     "type": 10
   },
@@ -1772,6 +1852,22 @@
     "EN": "虹蛇的雨弦",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/430a2ee3f7bb4817d96e4179110ffb21.png",
     "id": "15434",
+    "rank": 4,
+    "type": 12
+  },
+  "悬黎千钧": {
+    "cn": "悬黎千钧",
+    "EN": "悬黎千钧",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/0f601bcd039f213598bb9d89842c982e.png",
+    "id": "15435",
+    "rank": 4,
+    "type": 12
+  },
+  "霜雪誓约": {
+    "cn": "霜雪誓约",
+    "EN": "霜雪誓约",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/2865b59789886b72f1a9a9bcf3e731de.png",
+    "id": "15436",
     "rank": 4,
     "type": 12
   },

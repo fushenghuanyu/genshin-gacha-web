@@ -1,5 +1,75 @@
 [
 	{
+		"version": "6.7.1",
+		"items": [
+			{
+				"itemId": 11520,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/8ddba75e7fec894e50aa646f1f0fe069.png",
+				"itemType": "Weapon",
+				"name": "白湖冬羽",
+				"nameEn": "白湖冬羽",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 13512,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/30b345a334076865566f0da4e36d8d0d.png",
+				"itemType": "Weapon",
+				"name": "赤月之形",
+				"nameEn": "赤月之形",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 11401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cfda75195bd9c341e314a56e976d532f.png",
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "西风剑",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12402,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/d7f9ca521e414f63dfe24876b91cc139.png",
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "钟剑",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "匣里灭辰",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14403,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/807ae55311a3a8382194a656e214e7b1.png",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "祭礼残章",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15405,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "弓藏",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2026-08-12 07:00:00",
+		"end": "2026-09-01 17:59:00"
+	},
+	{
 		"version": "6.6.2",
 		"items": [
 			{

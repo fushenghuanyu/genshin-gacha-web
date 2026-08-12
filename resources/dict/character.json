@@ -1067,5 +1067,23 @@
     "id": "10000133",
     "rank": 5,
     "weapon": 11
+  },
+  "阿罗夏": {
+    "cn": "阿罗夏",
+    "element": 5,
+    "EN": "阿罗夏",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/e15099fb04ec5ef806fb03197e15980e.png",
+    "id": "10000148",
+    "rank": 4,
+    "weapon": 13
+  },
+  "奥黛塔": {
+    "cn": "奥黛塔",
+    "element": 7,
+    "EN": "奥黛塔",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/02deede2d04bb58a9553183239c1f345.png",
+    "id": "10000150",
+    "rank": 5,
+    "weapon": 1
   }
 }

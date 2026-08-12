@@ -1,5 +1,62 @@
 [
 	{
+		"version": "6.7.1",
+		"items": [
+			{
+				"itemId": 10000150,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/02deede2d04bb58a9553183239c1f345.png",
+				"itemType": "Character",
+				"name": "奥黛塔",
+				"nameEn": "奥黛塔",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000096,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1d4a80c98452ad6ee814b95cf81d741a.png",
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "阿蕾奇诺",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000148,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/e15099fb04ec5ef806fb03197e15980e.png",
+				"itemType": "Character",
+				"name": "阿罗夏",
+				"nameEn": "阿罗夏",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/8935ba87f2d316ad776e92771a616b43.png",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "砂糖",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000083,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/53d1455345d1bd3ea77093b2e30c707b.png",
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "琳妮特",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2026-08-12 07:00:00",
+		"end": "2026-09-01 17:59:00"
+	},
+	{
 		"version": "6.6.2",
 		"items": [
 			{
