@@ -1,5 +1,145 @@
 [
 	{
+		"version": "6.8.1",
+		"items": [
+			{
+				"itemId": 14525,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
+				"itemType": "Weapon",
+				"name": "秘星典谕",
+				"nameEn": "秘星典谕",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11513,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a0c785ee7bcfa4e7dd19032b8c28c7fa.png",
+				"itemType": "Weapon",
+				"name": "静水流涌之辉",
+				"nameEn": "静水流涌之辉",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 11427,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/137e6ee9d36a6af76d67718713859bbd.png",
+				"itemType": "Weapon",
+				"name": "船坞长剑",
+				"nameEn": "船坞长剑",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 13427,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
+				"itemType": "Weapon",
+				"name": "勘探钻机",
+				"nameEn": "勘探钻机",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14434,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/692f7d8b/182fc5756eed43ba0f54878cf0463207.png",
+				"itemType": "Weapon",
+				"name": "霜辰",
+				"nameEn": "霜辰",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 12405,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/de1e307e1104fbf7c8f7a7ef5cb143e1.png",
+				"itemType": "Weapon",
+				"name": "雨裁",
+				"nameEn": "雨裁",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 15405,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/6b682afb95373317a4a965b8974b5d08.png",
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "弓藏",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2026-11-04 07:00:00",
+		"end": "2026-11-24 17:59:00"
+	},
+	{
+		"version": "6.7.2",
+		"items": [
+			{
+				"itemId": 11522,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/ecedbeb41258bf291e127603ea519449.png",
+				"itemType": "Weapon",
+				"name": "蝶变",
+				"nameEn": "蝶变",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 14524,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/c506b7ca17eac4081f7749f68a3ad398.png",
+				"itemType": "Weapon",
+				"name": "漩流颂歌",
+				"nameEn": "漩流颂歌",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11437,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/a6fbdeef294997e18e778f4cba34df66.png",
+				"itemType": "Weapon",
+				"name": "新枝",
+				"nameEn": "新枝",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 14437,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/b84084f9e87288a72730c7114c997e4a.png",
+				"itemType": "Weapon",
+				"name": "凝雪沉心",
+				"nameEn": "凝雪沉心",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15437,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/59eed844cf69781f41f9f9f733b1bc4b.png",
+				"itemType": "Weapon",
+				"name": "柔风游弦",
+				"nameEn": "柔风游弦",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 12401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/7646388f158d62d56f368631a37427c3.png",
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "西风大剑",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/cf0f39f3f9fddd9fdcafe921ca8cff1a.png",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "匣里灭辰",
+				"weaponType": "Polearm",
+				"rankType": 4
+			}
+		],
+		"start": "2026-09-23 07:00:00",
+		"end": "2026-10-13 17:59:00"
+	},
+	{
 		"version": "6.7.1",
 		"items": [
 			{
@@ -731,7 +871,7 @@
 			},
 			{
 				"itemId": 13427,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
 				"nameEn": "勘探钻机",
@@ -1440,7 +1580,7 @@
 			},
 			{
 				"itemId": 13427,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
 				"nameEn": "勘探钻机",
@@ -2612,7 +2752,7 @@
 			},
 			{
 				"itemId": 13427,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
 				"nameEn": "勘探钻机",
@@ -3312,7 +3452,7 @@
 			},
 			{
 				"itemId": 13427,
-				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
 				"itemType": "Weapon",
 				"name": "勘探钻机",
 				"nameEn": "勘探钻机",

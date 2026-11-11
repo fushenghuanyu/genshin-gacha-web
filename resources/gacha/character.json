@@ -1,5 +1,119 @@
 [
 	{
+		"version": "6.8.1",
+		"items": [
+			{
+				"itemId": 10000136,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6aea6776/5c7d8f976ac83361b63af952830b70d7.png",
+				"itemType": "Character",
+				"name": "米提亚",
+				"nameEn": "米提亚",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000089,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/fa0e94fa780d419809b70b36bb82758c.png",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "芙宁娜",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000137,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6aea6776/8f20974e99f41f7f12b238dd153ccbc5.png",
+				"itemType": "Character",
+				"name": "瓦列里",
+				"nameEn": "瓦列里",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/a2b748e071143b7108bdfc0c79317717.png",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "夏洛蒂",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/42a0004fb79b3ec7dac0d9f3bfaa6cc5.png",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "罗莎莉亚",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2026-11-04 07:00:00",
+		"end": "2026-11-24 17:59:00"
+	},
+	{
+		"version": "6.7.2",
+		"items": [
+			{
+				"itemId": 10000143,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/0830c8e2c05d9e8d789cc3697e1e23bf.png",
+				"itemType": "Character",
+				"name": "薇斯纳",
+				"nameEn": "薇斯纳",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000140,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/48c85fabec91598c6b7531e1e1d56af4.png",
+				"itemType": "Character",
+				"name": "沃雅妮莎",
+				"nameEn": "沃雅妮莎",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/699e3449/463fecd3845f38202d00cadc28241a09.png",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "迪奥娜",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/3893f5f71e95055c2549734bfa41df0e.png",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "珐露珊",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/1c0e9bfe07e3785272aa71369d9f67ff.png",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "重云",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2026-09-23 07:00:00",
+		"end": "2026-10-13 17:59:00"
+	},
+	{
 		"version": "6.7.1",
 		"items": [
 			{

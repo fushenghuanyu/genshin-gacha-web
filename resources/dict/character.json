@@ -1068,6 +1068,42 @@
     "rank": 5,
     "weapon": 11
   },
+  "米提亚": {
+    "cn": "米提亚",
+    "element": 5,
+    "EN": "米提亚",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6aea6776/5c7d8f976ac83361b63af952830b70d7.png",
+    "id": "10000136",
+    "rank": 5,
+    "weapon": 10
+  },
+  "瓦列里": {
+    "cn": "瓦列里",
+    "element": 5,
+    "EN": "瓦列里",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6aea6776/8f20974e99f41f7f12b238dd153ccbc5.png",
+    "id": "10000137",
+    "rank": 4,
+    "weapon": 1
+  },
+  "沃雅妮莎": {
+    "cn": "沃雅妮莎",
+    "element": 6,
+    "EN": "沃雅妮莎",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/48c85fabec91598c6b7531e1e1d56af4.png",
+    "id": "10000140",
+    "rank": 5,
+    "weapon": 10
+  },
+  "薇斯纳": {
+    "cn": "薇斯纳",
+    "element": 2,
+    "EN": "薇斯纳",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/0830c8e2c05d9e8d789cc3697e1e23bf.png",
+    "id": "10000143",
+    "rank": 5,
+    "weapon": 1
+  },
   "阿罗夏": {
     "cn": "阿罗夏",
     "element": 5,

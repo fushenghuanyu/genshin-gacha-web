@@ -303,6 +303,22 @@
     "rank": 4,
     "type": 1
   },
+  "新枝": {
+    "cn": "新枝",
+    "EN": "新枝",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/a6fbdeef294997e18e778f4cba34df66.png",
+    "id": "11437",
+    "rank": 4,
+    "type": 1
+  },
+  "银釭": {
+    "cn": "银釭",
+    "EN": "银釭",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/0c2f38fc6c8afb31613c16f6f950c517.png",
+    "id": "11438",
+    "rank": 4,
+    "type": 1
+  },
   "风鹰剑": {
     "cn": "风鹰剑",
     "EN": "风鹰剑",
@@ -444,6 +460,14 @@
     "EN": "星锋剑",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/8ec89cd8827583d02662704f5738efc8.png",
     "id": "11521",
+    "rank": 5,
+    "type": 1
+  },
+  "蝶变": {
+    "cn": "蝶变",
+    "EN": "蝶变",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/ecedbeb41258bf291e127603ea519449.png",
+    "id": "11522",
     "rank": 5,
     "type": 1
   },
@@ -986,7 +1010,7 @@
   "勘探钻机": {
     "cn": "勘探钻机",
     "EN": "勘探钻机",
-    "iconUrl": "/hk4e/e20200928calculate/item_icon/67c7f6c8/097c698fe775b593c34bff55f9b6f271.png",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/d27fd73308eb0def75127b4aac89e6ea.png",
     "id": "13427",
     "rank": 4,
     "type": 13
@@ -1423,6 +1447,14 @@
     "rank": 4,
     "type": 10
   },
+  "凝雪沉心": {
+    "cn": "凝雪沉心",
+    "EN": "凝雪沉心",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/b84084f9e87288a72730c7114c997e4a.png",
+    "id": "14437",
+    "rank": 4,
+    "type": 10
+  },
   "天空之卷": {
     "cn": "天空之卷",
     "EN": "天空之卷",
@@ -1572,6 +1604,22 @@
     "EN": "尘光七谕",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6a0cf98d/8bc74e76d3888a46a6279ba1a765978b.png",
     "id": "14523",
+    "rank": 5,
+    "type": 10
+  },
+  "漩流颂歌": {
+    "cn": "漩流颂歌",
+    "EN": "漩流颂歌",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/c506b7ca17eac4081f7749f68a3ad398.png",
+    "id": "14524",
+    "rank": 5,
+    "type": 10
+  },
+  "秘星典谕": {
+    "cn": "秘星典谕",
+    "EN": "秘星典谕",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6aea6776/ec4643eca7890833b5b415f7ad5dc79b.png",
+    "id": "14525",
     "rank": 5,
     "type": 10
   },
@@ -1868,6 +1916,14 @@
     "EN": "霜雪誓约",
     "iconUrl": "/hk4e/e20200928calculate/item_icon/6a7ba976/2865b59789886b72f1a9a9bcf3e731de.png",
     "id": "15436",
+    "rank": 4,
+    "type": 12
+  },
+  "柔风游弦": {
+    "cn": "柔风游弦",
+    "EN": "柔风游弦",
+    "iconUrl": "/hk4e/e20200928calculate/item_icon/6ab31686/59eed844cf69781f41f9f9f733b1bc4b.png",
+    "id": "15437",
     "rank": 4,
     "type": 12
   },
